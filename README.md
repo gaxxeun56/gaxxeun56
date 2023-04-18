@@ -5,7 +5,7 @@ Junior developer
 
 # 🎒 Now I am ...
 - 고려대학교 정보대학 | Junior @ Korea University studying Computer Sciences (Undergraduate)
-- 주니어 프론트엔드 개발자 | 셰르파 (🚩 ~ 2022)
+- 프론트엔드 개발자 | 셰르파 (🚩 ~ 2022)
 
 # 📖 Currently Studying
 - WEB Frontend - React, TypeScript, Redux, Webpack, Vue.js
