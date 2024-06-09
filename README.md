@@ -5,11 +5,12 @@ Junior developer
 
 # 🎒 Now I am ...
 - 고려대학교 정보대학 | Junior @ Korea University studying Computer Sciences (Undergraduate)
+- Server Developer | @tossbank (2023)
 - 프론트엔드 개발자 | 셰르파 (🚩 ~ 2022)
 
 # 📖 Currently Studying
-- WEB Backend - NestJS, MongoDB, MySQL
-- Infrastructure - Google Firebase, AWS(S3, EC2, Route53, Cloudfront)
+- WEB Backend - Spring, NestJS, MongoDB, MySQL
+- Infrastructure - Kubernetes + Istio, Grafana, AWS(S3, EC2, Route53, Cloudfront)
 
 # 💻 Algorithm
 [![Solved.ac
