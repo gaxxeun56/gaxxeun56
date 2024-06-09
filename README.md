@@ -8,9 +8,7 @@ Junior developer
 - 프론트엔드 개발자 | 셰르파 (🚩 ~ 2022)
 
 # 📖 Currently Studying
-- WEB Frontend - React, TypeScript, Redux, Webpack, Vue.js
-- WEB Backend - NodeJS, Express, MongoDB, MySQL, MariaDB
-- Cross Platform App - React Native
+- WEB Backend - NestJS, MongoDB, MySQL
 - Infrastructure - Google Firebase, AWS(S3, EC2, Route53, Cloudfront)
 
 # 💻 Algorithm
